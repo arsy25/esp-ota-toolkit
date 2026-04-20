@@ -39,9 +39,9 @@ OTA Status          : OK - Enough space for OTA
 
 ### 2. `ota_monitor`
 A full OTA-ready sketch using:
-- **WiFiManager (tzapu)** — connect to WiFi without hardcoding credentials
-- **ArduinoOTA** — receive firmware updates wirelessly
-- **Sensor placeholder** — ultrasonic sensor (HC-SR04) as an example, swap with your own
+- **WiFiManager (tzapu)** - connect to WiFi without hardcoding credentials
+- **ArduinoOTA** - receive firmware updates wirelessly
+- **Sensor placeholder** - ultrasonic sensor (HC-SR04) as an example, swap with your own
 
 **Serial Monitor output example:**
 ```
@@ -70,8 +70,8 @@ A full OTA-ready sketch using:
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - ESP8266 or ESP32 board package installed
 - Libraries:
-  - `WiFiManager` by tzapu — install via Library Manager
-  - `ArduinoOTA` — built-in with ESP board packages
+  - `WiFiManager` by tzapu - install via Library Manager
+  - `ArduinoOTA` - built-in with ESP board packages
 
 ---
 
@@ -140,7 +140,7 @@ A full OTA-ready sketch using:
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+MIT License - free to use, modify, and distribute.
 
 ---
 
